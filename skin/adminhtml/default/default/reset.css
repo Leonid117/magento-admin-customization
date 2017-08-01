@@ -30,8 +30,8 @@
 
 body                    { background:#e6e6e6; color:#2f2f2f; font:12px/1.5em Arial, Helvetica, sans-serif;  }
 
-a                       { color:#ea7601; text-decoration:underline; }
-a:hover                 { color:#ea7601; text-decoration:underline; }
+a                       { color:#ab252a; text-decoration:underline; }
+a:hover                 { color:#ab252a; text-decoration:underline; }
 a img                   { border:0; }
 :focus                  { outline:0; }
 
